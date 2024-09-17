@@ -1,0 +1,16 @@
+# Ignore specific keypair files
+ab7b*
+usdcsX*
+
+# Common files to ignore
+node_modules/
+.env
+.env.local
+.next/
+out/
+build/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db

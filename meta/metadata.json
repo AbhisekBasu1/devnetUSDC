@@ -1,0 +1,6 @@
+{
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "description": "USDC Token, intended for devnet use in Graph of Humanity",
+    "image": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png"
+  }
